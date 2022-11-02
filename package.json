@@ -1,8 +1,8 @@
 {
   "name": "my-link-in-bio-page",
   "private": true,
-  "version": "1.0.0",
-  "author": "Leonardo Oliveira (https://github.com/leonardoXoliveira)",
+  "version": "1.0.1",
+  "author": "Leonardo X Oliveira (https://github.com/leonardoXoliveira)",
   "type": "module",
   "scripts": {
     "dev": "vite",
